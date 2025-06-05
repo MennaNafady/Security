@@ -20,11 +20,11 @@ Intuitive GUI for seamless interaction—no command line knowledge required.
 Robust Security Model:
 The combination of classical and modern encryption techniques offers a unique blend of adaptability and strength.
 
-To install dependencies:
+-To install dependencies:
 
 
 npm install
 
-To run the application
+-To run the application:
 
 npm start
